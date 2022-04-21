@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ServletSkier:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/ServletSkier_war</output-path>
+    <root id="root" />
+  </artifact>
+</component>
